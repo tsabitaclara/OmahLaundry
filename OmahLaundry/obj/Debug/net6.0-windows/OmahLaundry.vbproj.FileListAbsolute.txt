@@ -1,0 +1,56 @@
+D:\Tugas\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\OmahLaundry.exe
+D:\Tugas\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\OmahLaundry.deps.json
+D:\Tugas\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\OmahLaundry.runtimeconfig.json
+D:\Tugas\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\OmahLaundry.dll
+D:\Tugas\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\OmahLaundry.pdb
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.vbproj.AssemblyReference.cache
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.vbproj.GenerateResource.cache
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.AssemblyInfoInputs.cache
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.AssemblyInfo.vb
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.vbproj.CoreCompileInputs.cache
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.dll
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\refint\OmahLaundry.dll
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.pdb
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.genruntimeconfig.cache
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\ref\OmahLaundry.dll
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.Resources.resources
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.login.resources
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.DataLaundry.resources
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.MenuUtama.resources
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.Pelanggan.resources
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.PengembalianCucian.resources
+D:\Tugas\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.PenyerahanCucian.resources
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\OmahLaundry.exe
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\OmahLaundry.deps.json
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\OmahLaundry.runtimeconfig.json
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\OmahLaundry.dll
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\OmahLaundry.pdb
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.vbproj.AssemblyReference.cache
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.DataLaundry.resources
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.login.resources
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.MenuUtama.resources
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.Resources.resources
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.Pelanggan.resources
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.PengembalianCucian.resources
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.PenyerahanCucian.resources
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.vbproj.GenerateResource.cache
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.GeneratedMSBuildEditorConfig.editorconfig
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.AssemblyInfoInputs.cache
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.AssemblyInfo.vb
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.vbproj.CoreCompileInputs.cache
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.dll
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\refint\OmahLaundry.dll
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.pdb
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.genruntimeconfig.cache
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\ref\OmahLaundry.dll
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\obj\Debug\net6.0-windows\OmahLaundry.vbproj.CopyComplete
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\bita kuliah\SEMESTER 3\PEM. VISUAL\OmahLaundry\OmahLaundry\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll

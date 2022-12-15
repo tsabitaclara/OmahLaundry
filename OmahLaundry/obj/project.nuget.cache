@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t+MHLf/ap3DbEWqZkxCz17TNRelDXQyncjNFgnRUMo19ssrw5fwAzVeVc4lukmfldwL8TQPPUQ0r4B8WTr2FEg==",
+  "success": true,
+  "projectFilePath": "D:\\bita kuliah\\SEMESTER 3\\PEM. VISUAL\\OmahLaundry\\OmahLaundry\\OmahLaundry.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\system.data.odbc\\7.0.0\\system.data.odbc.7.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
